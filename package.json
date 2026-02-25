@@ -1,0 +1,10 @@
+{
+  "name": "chappy-workspace",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "src/backend",
+    "src/frontend",
+    "shared"
+  ]
+}
